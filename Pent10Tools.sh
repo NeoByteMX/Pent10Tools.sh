@@ -33,4 +33,4 @@ sudo apt install -y seclists
 # Limpieza de repositorios clonados
 rm -rf awesome-pentest
 
-echo "Instalación completa."
+echo "Top 10 pentesting tools Installed."
