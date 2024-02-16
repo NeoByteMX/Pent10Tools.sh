@@ -8,9 +8,9 @@ This script is aimed at everyone who wants to start in pen-testing and has a Lin
 
 ## Installation
 
-* Clone the repository: '''git clone https://github.com/NeoByteMX/DebianPenTest/'''
-Add execution permissions: <chmod +x Pent10Tools.sh>
-Then, run the script: <$ sudo ./Pent10Tools.sh>
+* Clone the repository: git clone https://github.com/NeoByteMX/Pent10Tools.sh
+Add execution permissions: chmod +x Pent10Tools.sh
+Then, run the script: $ sudo ./Pent10Tools.sh
 
 ## List of Pen-testing Tools
 
