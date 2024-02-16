@@ -7,10 +7,11 @@ This script is aimed at everyone who wants to start in pen-testing and has a Lin
 *This script has only one purpose: use it to perform CTF or pen-testing with the relevant permissions. NeoByteMX doesn't take responsibility for the misuse of this script.*
 
 ## Installation
-
-* Clone the repository: git clone https://github.com/NeoByteMX/Pent10Tools.sh
-Add execution permissions: chmod +x Pent10Tools.sh
-Then, run the script: $ sudo ./Pent10Tools.sh
+* Install git: ``` $ sudo apt install git ```
+* Clone the repository: ``` $ git clone https://github.com/NeoByteMX/Pent10Tools ```
+* Enter to dir Pent10Tools: ``` $ cd Pent10Tools ```
+* Add execution permissions: ``` $ sudo chmod +x Pent10Tools.sh ```
+* Then, run the script: ``` $ sudo ./Pent10Tools.sh ```
 
 ## List of Pen-testing Tools
 
